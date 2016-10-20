@@ -32,6 +32,16 @@
 
      Throwable可扔
 
+     gameObject遊戲對象
+
+     parent父母
+
+     Quaternion四元數
+
+     identity身份
+
+     Destroy破壞
+
      moveToNext移至下一步
 
      ContentValues內容值(資料庫程式語法????)
