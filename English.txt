@@ -1,0 +1,74 @@
+     zoom放大   
+     
+     build建立
+
+     target目標(位置)
+
+     Cursor遊標
+
+     rawQuery原始查詢
+
+     PATH路徑
+
+     getAssets獲取資產
+
+     exists存在
+
+     flush沖洗
+  
+     mkdir建立一個目錄
+     
+     version版本
+
+     WritableDatabase可寫數據庫
+
+     Insert into插入
+
+     helper幫手
+
+     finalize完成
+
+     throws拋出
+
+     Throwable可扔
+
+     moveToNext移至下一步
+
+     ContentValues內容值(資料庫程式語法????)
+
+     focusable可聚焦
+
+     focusableInTouchMode可觸摸模式
+
+     NotificationManager通知 管理器
+
+     notify通知
+
+     PendingIntent待定(沒有馬上要叫起來)
+
+     TASK任務
+
+     SINGLE單
+
+     CURRENT當前
+
+     FLAG旗  FLAG_ACTIVITY_SINGLE_TOP 旗(標示) 活動 單 上(單一個設定在最上方)
+
+     Handler處理程序
+
+     STICKYSTICKY黏(綁定)
+
+     postDelayed職位 延遲
+
+     surface textures表面 紋理
+
+     position位置
+
+     magnitude大小
+
+     Distance距離
+
+     normalized歸一化
+  
+     rigidbody剛體
+     
